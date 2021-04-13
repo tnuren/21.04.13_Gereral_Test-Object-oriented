@@ -2,7 +2,7 @@ package dasy11.pkg;
 
 import java.util.Scanner;
 
-public class Day11_01 {
+public class Day11_01_General_Test {
 
 	public static void main(String[] args) {
 		// 1. 학생수 . 2점수입력 . 3 점수리스트 4. 분석 5. 종료
